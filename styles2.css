@@ -1,0 +1,70 @@
+body {
+    background-color: #d7f5f5;
+}
+h1.header-example {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: teal;
+}
+p.color-example {
+    color: darkslategray;
+    border-style: double;
+    border-color: teal;
+    border-width: thick;
+}
+ul.list-example {
+    list-style-type: circle;
+    color: darkslategray; 
+}
+p.text-example {
+    font-family: papyrus;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+div.div-example {
+    background-color: #AFEEEE;
+    border-style:double ;
+}
+body.second-page {
+    background-color: #d7f5f5;
+}
+h1.otsikko {
+    border-style: double;
+    background-color: #96c2c2;
+    margin-right: 860px;
+    padding-left: 70px;
+}
+h2.pic {
+    text-decoration: underline;
+}
+h2.picc {
+    text-decoration: underline;
+}
+p.text {
+    background-color: #96c2c2;
+    border-style: double;
+    border-radius: 8px;
+    margin-right: 860px;
+    padding: 15px;
+}
+body.five-page {
+    background-color: #d7f5f5
+}
+#header {
+    background-color: #96c2c2;
+}
+#nav {
+    background-color: #a0c0c0;
+}
+#section {
+    background-color: #8bc2c2;
+}
+#footer {
+    background-color: #96c2c2;
+}
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
